@@ -1,0 +1,10 @@
+[user]
+	name = Anthony Bloomer
+	email = ant0@protonmail.ch
+[color]
+	ui = auto
+[push]
+	default = simple
+[core]
+	editor = vim
+	excludesfile = ~/.gitignore_global
